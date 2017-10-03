@@ -1,2 +1,2 @@
 # TL_Classifier
-Attempt to classifier TL
+Attempt to classify TL
